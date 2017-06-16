@@ -1,0 +1,20 @@
+c:\users\mauricio\documents\visual studio 2015\Projects\Etapas estudo\Etapas estudo\bin\Debug\Etapas estudo.exe.config
+c:\users\mauricio\documents\visual studio 2015\Projects\Etapas estudo\Etapas estudo\bin\Debug\Etapas estudo.exe
+c:\users\mauricio\documents\visual studio 2015\Projects\Etapas estudo\Etapas estudo\bin\Debug\Etapas estudo.pdb
+c:\users\mauricio\documents\visual studio 2015\Projects\Etapas estudo\Etapas estudo\obj\Debug\Etapas estudo.csprojResolveAssemblyReference.cache
+c:\users\mauricio\documents\visual studio 2015\Projects\Etapas estudo\Etapas estudo\obj\Debug\Etapas_estudo.Form1.resources
+c:\users\mauricio\documents\visual studio 2015\Projects\Etapas estudo\Etapas estudo\obj\Debug\Etapas_estudo.Properties.Resources.resources
+c:\users\mauricio\documents\visual studio 2015\Projects\Etapas estudo\Etapas estudo\obj\Debug\Etapas estudo.csproj.GenerateResource.Cache
+c:\users\mauricio\documents\visual studio 2015\Projects\Etapas estudo\Etapas estudo\obj\Debug\Etapas estudo.exe
+c:\users\mauricio\documents\visual studio 2015\Projects\Etapas estudo\Etapas estudo\obj\Debug\Etapas estudo.pdb
+c:\users\mauricio\documents\visual studio 2015\Projects\Etapas estudo\Etapas estudo\obj\Debug\Etapas_estudo.Anotaçoes.resources
+C:\Users\Mauricio\Documents\Visual Studio 2015\Projects\Mester dos estudos\Etapas estudo\bin\Debug\Etapas estudo.exe.config
+C:\Users\Mauricio\Documents\Visual Studio 2015\Projects\Mester dos estudos\Etapas estudo\obj\Debug\Etapas estudo.exe
+C:\Users\Mauricio\Documents\Visual Studio 2015\Projects\Mester dos estudos\Etapas estudo\obj\Debug\Etapas estudo.pdb
+C:\Users\Mauricio\Documents\Visual Studio 2015\Projects\Mester dos estudos\Etapas estudo\bin\Debug\Etapas estudo.exe
+C:\Users\Mauricio\Documents\Visual Studio 2015\Projects\Mester dos estudos\Etapas estudo\bin\Debug\Etapas estudo.pdb
+C:\Users\Mauricio\Documents\Visual Studio 2015\Projects\Mester dos estudos\Etapas estudo\obj\Debug\Etapas estudo.csprojResolveAssemblyReference.cache
+C:\Users\Mauricio\Documents\Visual Studio 2015\Projects\Mester dos estudos\Etapas estudo\obj\Debug\Etapas_estudo.Anotaçoes.resources
+C:\Users\Mauricio\Documents\Visual Studio 2015\Projects\Mester dos estudos\Etapas estudo\obj\Debug\Etapas_estudo.Form1.resources
+C:\Users\Mauricio\Documents\Visual Studio 2015\Projects\Mester dos estudos\Etapas estudo\obj\Debug\Etapas_estudo.Properties.Resources.resources
+C:\Users\Mauricio\Documents\Visual Studio 2015\Projects\Mester dos estudos\Etapas estudo\obj\Debug\Etapas estudo.csproj.GenerateResource.Cache

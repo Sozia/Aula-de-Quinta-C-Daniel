@@ -1,0 +1,27 @@
+E:\Executaveis liberados\JogoJokempo\JogoJokempo\bin\Debug\JogoJokempo.exe.config
+E:\Executaveis liberados\JogoJokempo\JogoJokempo\bin\Debug\JogoJokempo.exe
+E:\Executaveis liberados\JogoJokempo\JogoJokempo\bin\Debug\JogoJokempo.pdb
+E:\Executaveis liberados\JogoJokempo\JogoJokempo\obj\Debug\JogoJokempo.csprojResolveAssemblyReference.cache
+E:\Executaveis liberados\JogoJokempo\JogoJokempo\obj\Debug\JogoJokempo.Form1.resources
+E:\Executaveis liberados\JogoJokempo\JogoJokempo\obj\Debug\JogoJokempo.Properties.Resources.resources
+E:\Executaveis liberados\JogoJokempo\JogoJokempo\obj\Debug\JogoJokempo.csproj.GenerateResource.Cache
+E:\Executaveis liberados\JogoJokempo\JogoJokempo\obj\Debug\JogoJokempo.exe
+E:\Executaveis liberados\JogoJokempo\JogoJokempo\obj\Debug\JogoJokempo.pdb
+D:\C#\JogoJokempo\JogoJokempo\bin\Debug\JogoJokempo.exe.config
+D:\C#\JogoJokempo\JogoJokempo\obj\Debug\JogoJokempo.exe
+D:\C#\JogoJokempo\JogoJokempo\obj\Debug\JogoJokempo.pdb
+D:\C#\JogoJokempo\JogoJokempo\bin\Debug\JogoJokempo.exe
+D:\C#\JogoJokempo\JogoJokempo\bin\Debug\JogoJokempo.pdb
+D:\C#\JogoJokempo\JogoJokempo\obj\Debug\JogoJokempo.csprojResolveAssemblyReference.cache
+D:\C#\JogoJokempo\JogoJokempo\obj\Debug\JogoJokempo.Form1.resources
+D:\C#\JogoJokempo\JogoJokempo\obj\Debug\JogoJokempo.Properties.Resources.resources
+D:\C#\JogoJokempo\JogoJokempo\obj\Debug\JogoJokempo.csproj.GenerateResource.Cache
+E:\C#\JogoJokenpo\JogoJokempo\bin\Debug\JogoJokempo.exe.config
+E:\C#\JogoJokenpo\JogoJokempo\bin\Debug\JogoJokempo.exe
+E:\C#\JogoJokenpo\JogoJokempo\bin\Debug\JogoJokempo.pdb
+E:\C#\JogoJokenpo\JogoJokempo\obj\Debug\JogoJokempo.csprojResolveAssemblyReference.cache
+E:\C#\JogoJokenpo\JogoJokempo\obj\Debug\JogoJokempo.Form1.resources
+E:\C#\JogoJokenpo\JogoJokempo\obj\Debug\JogoJokempo.Properties.Resources.resources
+E:\C#\JogoJokenpo\JogoJokempo\obj\Debug\JogoJokempo.csproj.GenerateResource.Cache
+E:\C#\JogoJokenpo\JogoJokempo\obj\Debug\JogoJokempo.exe
+E:\C#\JogoJokenpo\JogoJokempo\obj\Debug\JogoJokempo.pdb
