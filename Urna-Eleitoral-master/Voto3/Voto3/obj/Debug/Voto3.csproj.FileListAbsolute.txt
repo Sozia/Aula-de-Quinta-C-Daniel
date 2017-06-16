@@ -1,0 +1,38 @@
+c:\users\antero\documents\visual studio 2015\Projects\Voto3\Voto3\bin\Debug\Voto3.exe.config
+c:\users\antero\documents\visual studio 2015\Projects\Voto3\Voto3\bin\Debug\Voto3.exe
+c:\users\antero\documents\visual studio 2015\Projects\Voto3\Voto3\bin\Debug\Voto3.pdb
+c:\users\antero\documents\visual studio 2015\Projects\Voto3\Voto3\obj\Debug\Voto3.Form1.resources
+c:\users\antero\documents\visual studio 2015\Projects\Voto3\Voto3\obj\Debug\Voto3.Properties.Resources.resources
+c:\users\antero\documents\visual studio 2015\Projects\Voto3\Voto3\obj\Debug\Voto3.csproj.GenerateResource.Cache
+c:\users\antero\documents\visual studio 2015\Projects\Voto3\Voto3\obj\Debug\Voto3.exe
+c:\users\antero\documents\visual studio 2015\Projects\Voto3\Voto3\obj\Debug\Voto3.pdb
+c:\Users\antero\Documents\Visual Studio 2015\Projects\Voto3\Voto3\bin\Debug\Voto3.exe.manifest
+c:\Users\antero\Documents\Visual Studio 2015\Projects\Voto3\Voto3\bin\Debug\Voto3.application
+c:\Users\antero\Documents\Visual Studio 2015\Projects\Voto3\Voto3\obj\Debug\Voto3.exe.manifest
+c:\Users\antero\Documents\Visual Studio 2015\Projects\Voto3\Voto3\obj\Debug\Voto3.application
+C:\Users\Mauricio\Desktop\Voto3\Voto3\bin\Debug\Voto3.exe.config
+C:\Users\Mauricio\Desktop\Voto3\Voto3\obj\Debug\Voto3.exe
+C:\Users\Mauricio\Desktop\Voto3\Voto3\obj\Debug\Voto3.pdb
+C:\Users\Mauricio\Desktop\Voto3\Voto3\bin\Debug\Voto3.exe.manifest
+C:\Users\Mauricio\Desktop\Voto3\Voto3\bin\Debug\Voto3.application
+C:\Users\Mauricio\Desktop\Voto3\Voto3\bin\Debug\Voto3.exe
+C:\Users\Mauricio\Desktop\Voto3\Voto3\bin\Debug\Voto3.pdb
+C:\Users\Mauricio\Desktop\Voto3\Voto3\obj\Debug\Voto3.csprojResolveAssemblyReference.cache
+C:\Users\Mauricio\Desktop\Voto3\Voto3\obj\Debug\Voto3.Form1.resources
+C:\Users\Mauricio\Desktop\Voto3\Voto3\obj\Debug\Voto3.Properties.Resources.resources
+C:\Users\Mauricio\Desktop\Voto3\Voto3\obj\Debug\Voto3.csproj.GenerateResource.Cache
+C:\Users\Mauricio\Desktop\Voto3\Voto3\obj\Debug\Voto3.exe.manifest
+C:\Users\Mauricio\Desktop\Voto3\Voto3\obj\Debug\Voto3.application
+F:\Voto3\Voto3\bin\Debug\Voto3.exe.config
+F:\Voto3\Voto3\obj\Debug\Voto3.exe
+F:\Voto3\Voto3\obj\Debug\Voto3.pdb
+F:\Voto3\Voto3\bin\Debug\Voto3.exe.manifest
+F:\Voto3\Voto3\bin\Debug\Voto3.application
+F:\Voto3\Voto3\bin\Debug\Voto3.exe
+F:\Voto3\Voto3\bin\Debug\Voto3.pdb
+F:\Voto3\Voto3\obj\Debug\Voto3.csprojResolveAssemblyReference.cache
+F:\Voto3\Voto3\obj\Debug\Voto3.Form1.resources
+F:\Voto3\Voto3\obj\Debug\Voto3.Properties.Resources.resources
+F:\Voto3\Voto3\obj\Debug\Voto3.csproj.GenerateResource.Cache
+F:\Voto3\Voto3\obj\Debug\Voto3.exe.manifest
+F:\Voto3\Voto3\obj\Debug\Voto3.application
